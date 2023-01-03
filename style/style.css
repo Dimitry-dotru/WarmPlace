@@ -310,7 +310,7 @@ button:focus {
 }
 
 .first-screen {
-    background: url(../img/first-screen/bg-pic.jpg) no-repeat center;
+    background: url(../img/first-screen/bg-pic.webp) no-repeat center;
     background-position-y: -31px;
     display: flex;
     justify-content: center;
